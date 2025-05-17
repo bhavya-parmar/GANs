@@ -2,7 +2,7 @@
 ---
 ## DCGAN
 
-Here I try to implement a **Deep Convolutional Generative Adversarial Network (DCGAN)** trained on the **MNIST** dataset, written from scratch using PyTorch. This was inspired by this ["paper"](https://arxiv.org/abs/1511.06434), and ["Aladdin Perrson"](https://youtu.be/IZtv9s_Wx9I?feature=shared).
+Here I try to implement a **Deep Convolutional Generative Adversarial Network (DCGAN)** trained on the **MNIST** dataset, written from scratch using PyTorch. This was inspired by this [paper](https://arxiv.org/abs/1511.06434), and [Aladdin Perrson](https://youtu.be/IZtv9s_Wx9I?feature=shared).
 
 DCGANs are a type of GAN where the generator and discriminator both use deep convolutional layers, making them especially suited for image generation tasks.
 
